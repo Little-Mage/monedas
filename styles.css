@@ -4,6 +4,8 @@ color: white;
 white-space: nowrap;
 }
 
+a, a:visited {color: white;}
+
 table {
 border-collapse: collapse;
 text-align: center;
