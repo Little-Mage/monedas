@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    color: white;
+    white-space: nowrap;
+}
+
+a,
+a:visited {
+    color: white;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    width: auto;
+    margin: 0 auto;
+}
+
+th,
+td {
+    border: 1px solid white;
+}
+
+tr:nth-child(even) {
+    background-color: green;
+}
+
+h1 {
+    text-align: center;
+}
